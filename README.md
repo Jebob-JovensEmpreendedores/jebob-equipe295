@@ -20,6 +20,6 @@ Neste vídeo é possível conhecer melhor a plataforma **Kodular**:
 [![Watch the video](https://img.youtube.com/vi/PrxIGg-q8EE/maxresdefault.jpg)](https://youtu.be/PrxIGg-q8EE)
 
 Este é o vídeo Demo, onde mostramos a utilidade de cada funcionalidade desenvolvida:
-[![Watch the video](https://img.youtube.com/vi/aOX2I1dW9Co/maxresdefault.jpg)]( https://youtu.be/aOX2I1dW9Co)
+[![Watch the video](https://img.youtube.com/vi/aOX2I1dW9Co/maxresdefault.jpg)](https://youtu.be/aOX2I1dW9Co)
 
 ## https://jebob2021.wixsite.com/jebob
