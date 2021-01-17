@@ -11,15 +11,17 @@ Pensando nisso desenvolvemos a **JEBOB** uma plataforma mobile *(e futuramente w
 ### Perfis
 A JEBOB conta com 2 perfis de usuário: o contratante e os jovens *(JEBOBs)*, que se conectam pelo mútuo interesse em realizar um serviço que o jovem possa oferecer, sendo que essa conexão é filtrada pela **geolocalização**, evitando assim gastos com deslocamento.
 
-![](fluxograma)
+![](https://github.com/Jebob-JovensEmpreendedores/jebob-equipe295/blob/main/imagens/fluxograma/fluxograma.png)
 
 ### Desenvolvimento
 O desenvolvimento do app foi feito na plataforma **Kodular**, trata-se de um plataforma online e open source para programação em dispositivos **Android**. Ele tem aparência visual, baseada em programação em blocos, o que permite o rápido e eficiente desenvolvimento de arquivos executáveis como:  **Android Package** *(apk)* e **Android App Bundle** *(aab)*.
 
 Neste vídeo é possível conhecer melhor a plataforma **Kodular**:
-[![Watch the video](https://img.youtube.com/vi/PrxIGg-q8EE/maxresdefault.jpg)](https://youtu.be/PrxIGg-q8EE)
+[![Watch the video](https://github.com/Jebob-JovensEmpreendedores/jebob-equipe295/blob/main/imagens/capas/CapaKodular.jpg)](https://youtu.be/PrxIGg-q8EE)
 
 Este é o vídeo Demo, onde mostramos a utilidade de cada funcionalidade desenvolvida:
-[![Watch the video](https://img.youtube.com/vi/aOX2I1dW9Co/maxresdefault.jpg)](https://youtu.be/aOX2I1dW9Co)
+[![Watch the video](https://github.com/Jebob-JovensEmpreendedores/jebob-equipe295/blob/main/imagens/capas/CapaV%C3%ADdeoDemo.jpg)]( https://youtu.be/aOX2I1dW9Co)
 
-## https://jebob2021.wixsite.com/jebob
+[![](https://github.com/Jebob-JovensEmpreendedores/jebob-equipe295/blob/main/imagens/logos/logoCompleta.png)](https://jebob2021.wixsite.com/jebob)
+
+
